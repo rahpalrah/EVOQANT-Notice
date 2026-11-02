@@ -28,7 +28,8 @@ By viewing this page you acknowledge that:
 
 ## Request access
 
-To evaluate or license EVOQANT, contact **Rahul Agnihotri** and request access. Approved
-evaluators will be granted access to the private source repository under written terms.
+To evaluate or license EVOQANT, contact **Rahul Agnihotri** at
+**rahul.gnihotri@gmail.com** and request access. Approved evaluators will be granted access to
+the private source repository under written terms.
 
 Unauthorized copying, use, or distribution is a violation of copyright law.
